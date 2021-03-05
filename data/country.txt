@@ -1,0 +1,23 @@
+country_id	country
+0	Australia
+1	New Zealand
+2	Indonesia
+3	Malaysia
+4	Hong Kong
+5	Vietnam
+6	England
+7	India
+8	Taiwan
+9	Brunei
+10	Singapore
+11	Japan
+12	Scotland
+13	Ireland
+14	Germany
+15	Netherlands
+16	Greece
+17	Turkey
+18	Portugal
+19	Thailand
+20	South Africa
+21	United Arab Emirates

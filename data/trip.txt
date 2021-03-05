@@ -1,0 +1,7 @@
+trip_id	trip
+0	Roaming Around Australia
+1	Europe 2014
+2	Japan 2019
+3	Japan 2016
+4	Japan 2013
+5	Vietnam 2015
