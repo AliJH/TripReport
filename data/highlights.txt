@@ -2,10 +2,10 @@ trip_id	highlight
 4	Going to Disneyland (Tokyo) for the first time.
 4	Meandering down the Kyoto Philosopher's Path.
 5	Discovering that I am allergic to shellfish.
-5	Getting most first tailored suit.
+5	Getting my first tailored suit.
 1	Getting lost in the valleys of Cappadocia.
-1	Having half of Ephesus to myself as I wandered in from the opposite end to all of the tourist groups.
+1	Having half of Ephesus to myself as I wandered in from the usual exit.
 2	Discovering Japanese pour over coffee.
 2	Exploring teamLab Borderless Tokyo.
-3	Seeing snow for the first time and having a snow fight in the car park of Maibara Station.
-3	Enjoying cocktails, jazz and the Tokyo skyline from the New York Bar, Park Hyatt Shinjuku.
+3	Enjoying cocktails, jazz and the Tokyo skyline from the New York Bar.
+3	Seeing snow for the first time leading to a snow fight at Maibara Station.
